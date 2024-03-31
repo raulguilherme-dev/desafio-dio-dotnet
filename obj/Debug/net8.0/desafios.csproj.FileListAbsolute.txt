@@ -1,0 +1,14 @@
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\obj\Debug\net8.0\desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\obj\Debug\net8.0\desafios.AssemblyInfoInputs.cache
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\obj\Debug\net8.0\desafios.AssemblyInfo.cs
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\obj\Debug\net8.0\desafios.csproj.CoreCompileInputs.cache
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\bin\Debug\net8.0\desafios.exe
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\bin\Debug\net8.0\desafios.deps.json
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\bin\Debug\net8.0\desafios.runtimeconfig.json
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\bin\Debug\net8.0\desafios.dll
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\bin\Debug\net8.0\desafios.pdb
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\obj\Debug\net8.0\desafios.dll
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\obj\Debug\net8.0\refint\desafios.dll
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\obj\Debug\net8.0\desafios.pdb
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\obj\Debug\net8.0\desafios.genruntimeconfig.cache
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\Desafio01\obj\Debug\net8.0\ref\desafios.dll
